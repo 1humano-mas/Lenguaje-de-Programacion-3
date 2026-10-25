@@ -1,0 +1,6 @@
+@gestor_tarea_HostAddress = http://localhost:5029
+
+GET {{gestor_tarea_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
